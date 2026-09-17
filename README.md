@@ -1,4 +1,4 @@
-# Amazon Homepage Clone
+# Ecommerce Homepage Clone
 
 A front-end clone of Amazon's homepage built using HTML and CSS.
 
@@ -21,9 +21,9 @@ Anurag Verma
 
 ## Preview
 
-![Amazon Homepage Clone](Screenshots/cloneimage.png)
+![Ecomerce Homepage Clone](Screenshots/cloneimage.png)
 
 ## Live Demo
 
-https://anuragverma43.github.io/amazon-clone/
+https://anuragverma43.github.io/ecommerce-homepage-clone/
 
